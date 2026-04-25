@@ -35,7 +35,7 @@ Build better financial habits
 Frontend: HTML, CSS,Bootstrap
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/money-tracker.git
+git clone https://github.com/Mohamedgomaam/Modaber.git
 2. Navigate to project folder
 cd money-tracker
 3. Install dependencies
