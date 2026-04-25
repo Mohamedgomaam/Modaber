@@ -12,6 +12,7 @@ The goal is simple:
 👉 Control your money before it controls you.
 
 ✨ Features
+
 ✅ Track daily expenses
 ✅ Monitor monthly spending
 ✅ Salary management
@@ -31,10 +32,13 @@ Understand where their money goes
 Control unnecessary expenses
 Plan spending across the entire month
 Build better financial habits
+
 🛠️ Tech Stack
+
 Frontend: HTML, CSS,Bootstrap
 
 🚀 Getting Started
+
 1. Clone the repository
 git clone https://github.com/Mohamedgomaam/Modaber.git
 2. Navigate to project folder
@@ -45,6 +49,7 @@ npm install
 npm start
 
 📊 Future Improvements
+
 Notifications for overspending
 AI-based spending suggestions
 🤝 Contributing
