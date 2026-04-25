@@ -4,7 +4,7 @@ A web application that helps you track your monthly expenses, monitor your spend
 
 📌 Overview
 
-Money Tracker is designed to give users full visibility over their financial activity.
+Modaber is designed to give users full visibility over their financial activity.
 Instead of wondering "Where did my salary go?", the application provides clear tracking, summaries, and spending insights.
 
 The goal is simple:
