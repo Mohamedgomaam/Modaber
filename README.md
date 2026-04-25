@@ -33,6 +33,7 @@ Plan spending across the entire month
 Build better financial habits
 🛠️ Tech Stack
 Frontend: HTML, CSS,Bootstrap
+
 🚀 Getting Started
 1. Clone the repository
 git clone https://github.com/Mohamedgomaam/Modaber.git
@@ -42,6 +43,7 @@ cd money-tracker
 npm install
 4. Run the project
 npm start
+
 📊 Future Improvements
 Notifications for overspending
 AI-based spending suggestions
